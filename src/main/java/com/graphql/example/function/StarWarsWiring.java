@@ -8,7 +8,7 @@ import com.graphql.example.function.data.Episode;
 import com.graphql.example.function.data.FilmCharacter;
 import com.graphql.example.function.data.Human;
 import com.graphql.example.function.data.StarWarsData;
-import com.microsoft.azure.serverless.functions.ExecutionContext;
+import com.microsoft.azure.functions.ExecutionContext;
 
 import org.dataloader.BatchLoader;
 import org.dataloader.DataLoader;

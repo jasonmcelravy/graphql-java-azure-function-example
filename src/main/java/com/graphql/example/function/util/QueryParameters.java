@@ -1,6 +1,6 @@
 package com.graphql.example.function.util;
 
-import com.microsoft.azure.serverless.functions.HttpRequestMessage;
+import com.microsoft.azure.functions.HttpRequestMessage;
 
 import java.util.Collections;
 import java.util.HashMap;

@@ -1,7 +1,7 @@
 package com.graphql.example.function;
 
 import org.junit.Test;
-import com.microsoft.azure.serverless.functions.*;
+import com.microsoft.azure.functions.*;
 
 import java.util.HashMap;
 import java.util.Map;
